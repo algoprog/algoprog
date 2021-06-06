@@ -2,7 +2,7 @@
 
 
 #### I'm a ML/NLP researcher
-- I'm currently a research assistant at the [National University of Singapore][nus] and a Machine Learning Consultant at [Ro5][ro5].
+- I'm currently a machine learning engineer (NLP/Knowledge Graph) at [Ro5][ro5].
 
 :necktie: [linkedin][linkedin] **|** 
 :baby_chick: [twitter][twitter] **|** 
