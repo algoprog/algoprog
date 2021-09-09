@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I'm a PhD student in Information Retrieval at the [Center for Intelligent Information Retrieval at University of Massachusetts Amherst][ciir], supervised by [Hamed Zamani][hamed]. I’m currently doing research in conversational search.
+I'm a PhD student in Information Retrieval at the [Center for Intelligent Information Retrieval][ciir] at University of Massachusetts Amherst, supervised by [Hamed Zamani][hamed]. I’m currently doing research in conversational search.
 
 :necktie: [linkedin][linkedin] **|** 
 :baby_chick: [twitter][twitter] **|** 
