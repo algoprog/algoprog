@@ -1,8 +1,6 @@
 ### Hi, I'm Chris 👋
 
-
-#### I'm a ML/NLP researcher
-- I'm currently a machine learning engineer (NLP/Knowledge Graph) at [Ro5][ro5].
+I'm a PhD student in Information Retrieval at the [Center for Intelligent Information Retrieval at University of Massachusetts Amherst][ciir], supervised by [Hamed Zamani][hamed]. I’m currently doing research in conversational search.
 
 :necktie: [linkedin][linkedin] **|** 
 :baby_chick: [twitter][twitter] **|** 
@@ -34,7 +32,8 @@
 [ICTAI2020]: https://ieeexplore.ieee.org/document/9288228
 [quin]: https://github.com/algoprog/Quin
 [nus]: https://www.nus.edu.sg
-[ro5]: https://www.ro5.ai
+[ciir]: https://ciir.cs.umass.edu/
+[hamed]: https://groups.cs.umass.edu/zamani/
 [google scholar]: https://scholar.google.co.uk/citations?user=CdJEwOkAAAAJ
 [linkedin]: https://www.linkedin.com/in/chris-samarinas/
 [twitter]: https://twitter.com/CSamarinas
