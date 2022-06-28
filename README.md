@@ -11,6 +11,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Revisiting Open Domain Query Facet Extraction and Generation**][ICTIR2022] in ICTIR 2022
 - 📜 [**Improving Evidence Retrieval for Automated Explainable Fact-Checking**][NAACL2021] in NAACL 2021
 - 📜 [**Latent Retrieval for Large-Scale Fact-Checking and Question Answering with NLI training**][ICTAI2020] in ICTAI 2020
 
@@ -21,6 +22,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ### 💻 Latest Projects
 <!-- Project:START -->
+- :octocat: [**Faspect**][faspect]: A library with various model implementations for open domain query facet extraction and generation
 - :octocat: [**Quin**][quin]: A framework for large-scale fact-checking and question answering
 
 
@@ -28,9 +30,11 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ---
 
+[ICTIR2022]: https://algoprog.com/files/ictir-2022-faspect.pdf
 [NAACL2021]: https://algoprog.com/files/naacl-2021-quin-fact-checking.pdf
 [ICTAI2020]: https://ieeexplore.ieee.org/document/9288228
 [quin]: https://github.com/algoprog/Quin
+[faspect]: https://github.com/algoprog/Faspect
 [nus]: https://www.nus.edu.sg
 [ciir]: https://ciir.cs.umass.edu/
 [hamed]: https://groups.cs.umass.edu/zamani/
