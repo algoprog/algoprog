@@ -31,7 +31,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 ---
 
 [ICTIR2022]: https://algoprog.com/files/ictir-2022-faspect.pdf
-[NAACL2021]: https://algoprog.com/files/naacl-2021-quin-fact-checking.pdf
+[NAACL2021]: https://aclanthology.org/2021.naacl-demos.10/
 [ICTAI2020]: https://ieeexplore.ieee.org/document/9288228
 [quin]: https://github.com/algoprog/Quin
 [faspect]: https://github.com/algoprog/Faspect
