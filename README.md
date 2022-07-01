@@ -30,7 +30,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ---
 
-[ICTIR2022]: https://algoprog.com/files/ictir-2022-faspect.pdf
+[ICTIR2022]: https://ciir-publications.cs.umass.edu/pub/web/getpdf.php?id=1455
 [NAACL2021]: https://aclanthology.org/2021.naacl-demos.10/
 [ICTAI2020]: https://ieeexplore.ieee.org/document/9288228
 [quin]: https://github.com/algoprog/Quin
