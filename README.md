@@ -38,7 +38,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 [nus]: https://www.nus.edu.sg
 [ciir]: https://ciir.cs.umass.edu/
 [hamed]: https://groups.cs.umass.edu/zamani/
-[google scholar]: https://scholar.google.co.uk/citations?user=CdJEwOkAAAAJ
+[google scholar]: https://scholar.google.com/citations?user=CdJEwOkAAAAJ
 [linkedin]: https://www.linkedin.com/in/chris-samarinas/
 [twitter]: https://twitter.com/CSamarinas
 [website]: https://algoprog.com
