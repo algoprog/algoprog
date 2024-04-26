@@ -11,6 +11,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models**][arxiv1] (preprint)
 - 📜 [**Revisiting Open Domain Query Facet Extraction and Generation**][ICTIR2022] in ICTIR 2022
 - 📜 [**Improving Evidence Retrieval for Automated Explainable Fact-Checking**][NAACL2021] in NAACL 2021
 - 📜 [**Latent Retrieval for Large-Scale Fact-Checking and Question Answering with NLI training**][ICTAI2020] in ICTAI 2020
@@ -30,6 +31,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ---
 
+[ARXIV1]: https://arxiv.org/abs/2404.14772
 [ICTIR2022]: https://ciir-publications.cs.umass.edu/pub/web/getpdf.php?id=1455
 [NAACL2021]: https://aclanthology.org/2021.naacl-demos.10/
 [ICTAI2020]: https://ieeexplore.ieee.org/document/9288228
