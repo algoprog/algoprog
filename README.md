@@ -11,6 +11,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation**][arxiv2] (preprint)
 - 📜 [**ProCIS: A Benchmark for Proactive Retrieval in Conversations**][sigir24] in SIGIR 2024
 - 📜 [**Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models**][arxiv1] (preprint)
 - 📜 [**Revisiting Open Domain Query Facet Extraction and Generation**][ICTIR2022] in ICTIR 2022
@@ -34,6 +35,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 [SIGIR24]: https://arxiv.org/abs/2404.14772
 [ARXIV1]: https://arxiv.org/abs/2404.14772
+[ARXIV2]: https://arxiv.org/abs/2501.03545
 [ICTIR2022]: https://ciir-publications.cs.umass.edu/pub/web/getpdf.php?id=1455
 [NAACL2021]: https://aclanthology.org/2021.naacl-demos.10/
 [ICTAI2020]: https://ieeexplore.ieee.org/document/9288228
