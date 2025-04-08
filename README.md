@@ -26,6 +26,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ### 💻 Latest Projects
 <!-- Project:START -->
+- :octocat: [**InteRank**][interank]: Reasoning-Intensive Document Ranking with Small Language Models
 - :octocat: [**ICAT**][icat]: Evaluation framework for topic coverage and factuality in LLMs
 - :octocat: [**Faspect**][faspect]: A library with various model implementations for open domain query facet extraction and generation
 - :octocat: [**Quin**][quin]: A framework for large-scale fact-checking and question answering
@@ -45,6 +46,7 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 [icat]: https://github.com/algoprog/ICAT
 [quin]: https://github.com/algoprog/Quin
 [faspect]: https://github.com/algoprog/Faspect
+[interank]: https://github.com/algoprog/InteRank
 [nus]: https://www.nus.edu.sg
 [ciir]: https://ciir.cs.umass.edu/
 [hamed]: https://groups.cs.umass.edu/zamani/
