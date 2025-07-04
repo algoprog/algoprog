@@ -11,8 +11,8 @@ I'm a PhD student in Information Retrieval at the [Center for Intelligent Inform
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
-- 📜 [**Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking**][arxiv3] (preprint)
-- 📜 [**Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation**][arxiv2] (preprint)
+- 📜 [**Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking**][arxiv3] in ICTIR 25
+- 📜 [**Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation**][arxiv2] in ACL 25
 - 📜 [**ProCIS: A Benchmark for Proactive Retrieval in Conversations**][sigir24] in SIGIR 2024
 - 📜 [**Simulating Task-Oriented Dialogues with State Transition Graphs and Large Language Models**][arxiv1] (preprint)
 - 📜 [**Revisiting Open Domain Query Facet Extraction and Generation**][ICTIR2022] in ICTIR 2022
