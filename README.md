@@ -11,6 +11,7 @@ I'm a PhD student in Information Retrieval at [University of Massachusetts Amher
 
 ### 📑 Latest Research
 <!-- PAPER:START -->
+- 📜 [**Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning**][arxiv4] (preprint)
 - 📜 [**Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking**][arxiv3] in ICTIR 25
 - 📜 [**Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation**][arxiv2] in ACL 25
 - 📜 [**ProCIS: A Benchmark for Proactive Retrieval in Conversations**][sigir24] in SIGIR 2024
@@ -39,7 +40,8 @@ I'm a PhD student in Information Retrieval at [University of Massachusetts Amher
 [SIGIR24]: https://arxiv.org/abs/2404.14772
 [ARXIV1]: https://arxiv.org/abs/2404.14772
 [ARXIV2]: https://arxiv.org/abs/2501.03545
-[ARXIV3]: https://arxiv.org/abs/2501.03545
+[ARXIV3]: https://arxiv.org/abs/2504.03947
+[ARXIV4]: https://arxiv.org/abs/2602.23440
 [ICTIR2022]: https://ciir-publications.cs.umass.edu/pub/web/getpdf.php?id=1455
 [NAACL2021]: https://aclanthology.org/2021.naacl-demos.10/
 [ICTAI2020]: https://ieeexplore.ieee.org/document/9288228
