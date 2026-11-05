@@ -27,7 +27,7 @@ I'm a PhD student in Information Retrieval at [University of Massachusetts Amher
 
 ### 💻 Latest Projects
 <!-- Project:START -->
-- :octocat: [**Hydor**][hydor]:Self-hosted AI agent based on Claude Code, Codex and any model, even local open-weight
+- :octocat: [**Hydor**][hydor]: Self-hosted AI agent based on Claude Code, Codex and any model, even local open-weight
 - :octocat: [**InteRank**][interank]: Reasoning-intensive document ranking with Small Language Models
 - :octocat: [**ICAT**][icat]: Evaluation framework for topic coverage and factuality in LLMs
 - :octocat: [**Faspect**][faspect]: A library with various model implementations for open domain query facet extraction and generation
